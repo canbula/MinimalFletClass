@@ -7,6 +7,7 @@ A minimal class which generates a Flet application.
 Flet is a framework that allows building interactive multi-user web, desktop and mobile applications in your favorite language without prior experience in frontend development [1]. Flet controls are based on Flutter [2].
 
 [1] https://flet.dev
+
 [2] https://flutter.dev
 
 ## What is this class?
