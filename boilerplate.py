@@ -1,7 +1,7 @@
 import flet
 
 
-class MinimalFletClass:
+class BoilerplateFletClass:
     def __init__(self):
         self.__page = None
         self.__app_icon = flet.Icon(name=flet.icons.CHECK, size=48)
@@ -57,4 +57,4 @@ class MinimalFletClass:
 
 
 if __name__ == '__main__':
-    flet.app(target=MinimalFletClass())
+    flet.app(target=BoilerplateFletClass())
