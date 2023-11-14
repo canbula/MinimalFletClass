@@ -25,7 +25,7 @@ pip install flet
 pip3 install flet
 python -m pip install flet
 python3 -m pip install flet
-py -m install flet
+py -m pip install flet
 ```
 
 ## Usage
